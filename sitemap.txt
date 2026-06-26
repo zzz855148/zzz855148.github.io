@@ -1,6 +1,6 @@
-https://zzz855148.github.io/2026/05/19/Hexo-Butterfly-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
+https://zzz855148.github.io/2026/06/25/Translate%20for%20Zotero%20%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%EF%BC%9A%E8%BF%9E%E6%8E%A5%20DeepLX%20%E4%B8%8E%E8%87%AA%E5%AE%9A%E4%B9%89%20GPT%20%E6%8E%A5%E5%8F%A3/
 https://zzz855148.github.io/2026/05/16/hello-world/
-https://zzz855148.github.io/2026/05/16/google/
+https://zzz855148.github.io/2026/05/19/Hexo-Butterfly-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 https://zzz855148.github.io/about/index.html
 https://zzz855148.github.io/movies/index.html
 https://zzz855148.github.io/music/index.html
@@ -13,6 +13,13 @@ https://zzz855148.github.io/tags/Hexo/
 https://zzz855148.github.io/tags/Butter/
 https://zzz855148.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
 https://zzz855148.github.io/tags/%E6%95%99%E7%A8%8B/
+https://zzz855148.github.io/tags/Zotero/
+https://zzz855148.github.io/tags/%E6%8F%92%E4%BB%B6/
+https://zzz855148.github.io/tags/DeepLX/
+https://zzz855148.github.io/tags/GPT/
+https://zzz855148.github.io/tags/%E7%BF%BB%E8%AF%91/
+https://zzz855148.github.io/tags/AI/
 https://zzz855148.github.io/tags/%E6%8A%80%E6%9C%AF/
 https://zzz855148.github.io/tags/Node-js/
 https://zzz855148.github.io/categories/%E6%95%99%E7%A8%8B/
+https://zzz855148.github.io/categories/%E6%95%99%E7%A8%8B/%E5%B7%A5%E5%85%B7%E6%95%88%E7%8E%87/
